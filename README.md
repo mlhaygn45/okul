@@ -2,5 +2,5 @@
 
 simple website creation
 
-![](screnn.gif)# okul
+![](screnn.gif) 
 # okul
